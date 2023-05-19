@@ -1,6 +1,3 @@
-# fairness-by-location
-
-====================================================
 ## Overview
 Code for flow prediction
 
