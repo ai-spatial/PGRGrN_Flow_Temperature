@@ -1,5 +1,5 @@
 ## Overview
-Code for flow prediction
+Code for river temperature prediction
 
 
 ====================================================
