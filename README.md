@@ -1,5 +1,7 @@
 ## Overview
-Code for river temperature prediction
+Code for river flow and temperature prediction
+
+Paper: Physics-guided recurrent graph model for predicting flow and temperature in river networks
 
 
 ====================================================
